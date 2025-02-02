@@ -12,6 +12,9 @@ body{
 .pictures{
   width: 400px;
   border-radius: 2px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .hrstyle{
