@@ -12,9 +12,7 @@ body{
 .pictures{
   width: 400px;
   border-radius: 2px;
-  display: grid;
-  margin-left: auto;
-  margin-right: auto;
+  object-fit:cover;
 }
 
 .hrstyle{
