@@ -12,11 +12,6 @@ body{
 .pictures{
   width: 400px;
   border-radius: 2px;
-  object-fit:cover;
-  grid-column-start: 1;
-  grid-column-end: 3;
-  grid-row-start: 1;
-  grid-row-end: 3;
 }
 
 .hrstyle{
